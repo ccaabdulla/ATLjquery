@@ -1,0 +1,26 @@
+html, body{
+    height: 100%;
+}
+
+
+body{
+    background-color: pink;
+}
+/* div{
+    height: 50%;
+}
+
+#div1{
+    background-color: yellow;
+} */
+.myDivClass{
+height: 100px;
+background-color: gray;
+}
+
+#div2{
+    height: 300px;
+    width: 100px;
+    background-color: red;
+    position: absolute;
+}
